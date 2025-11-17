@@ -7,4 +7,5 @@
 -      pkg install git -y
 -      pkg install python -y
 -      git clone https://github.com/Root-Of-Hunter/Password-Generator-V1
+-      cd Password-Generator-V1
 -      python p.py
